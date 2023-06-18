@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    border-bottom: 1px solid rgb(227, 227, 227);
+    align-items: center;
+
+    .headerlogo {
+        display: flex;
+        gap: 20px;
+        font-size: 30px;
+
+    
+    }
+}
